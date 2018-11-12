@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (WinCnsl_test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\imagehlp.h(1869): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\imagehlp.h(3385): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  WinCnsl_test.cpp
+  vm_r3.cpp
+  set_driver.cpp
+  load_drv.cpp
+  正在生成代码...
+  WinCnsl_test.vcxproj -> C:\Users\vvv\Desktop\hctf2018 Rev\WinCnsl_test\Debug\Spiral.exe
+  WinCnsl_test.vcxproj -> C:\Users\vvv\Desktop\hctf2018 Rev\WinCnsl_test\Debug\Spiral.pdb (Full PDB)
